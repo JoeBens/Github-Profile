@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning about **Deep Learning techniques and gameplay programming**
 
-- ⚡ Fun fact [I am a little too obsessed with Devil May Cry and Dragon Ball Z series](I am a little too obsessed with Devil May Cry and Dragon Ball Z series)
+- ⚡ Fun fact **I am a little too obsessed with Devil May Cry and Dragon Ball Z series**
 
 - 👨‍💻 All of my game dev projects are available at **https://wazowski.itch.io/**
 
