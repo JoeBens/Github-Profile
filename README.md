@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youcef Benslimane</h1>
-<h3 align="center">A student in Image Processing and Computer Vision and a game dev hobbyist</h3>
+<h3 align="center">Data Engineer & Game Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joebens" alt="joebens" /></a> </p>
-
-- 🔭 I’m currently studying at **Sorbonne University in Paris**
-
-- 📫 To reach me : **youcefbenslimane63@gmail.com**
-
-- 👯 I’m looking for internships in **Computer Vision**
-
-- 🌱 I’m currently learning about **Deep Learning techniques and gameplay programming**
-
-- ⚡ Fun fact **I am a little too obsessed with Devil May Cry and Dragon Ball Z series**
 
 - 👨‍💻 All of my game dev projects are available at **https://wazowski.itch.io/**
 
